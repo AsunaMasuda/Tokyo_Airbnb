@@ -1,5 +1,5 @@
 # Data Analysis and Price prediction using Tokyo Airbnb data
-This repository holds data analysis and machine learning project on Tokyo Airbnb data (Sep 2019 - July 2020).
+This repository holds ipython file where I performed data analysis and price prediction on Tokyo Airbnb data (Sep 2019 - July 2020).
 
 It uses three datasets (csv.files) which are available in [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
 
