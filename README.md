@@ -5,10 +5,11 @@ Japan is a host country of the Rugby World Cup in 2019 and Summer Olympics in 20
 <p align="center">Photo by Louie Martinez on Unsplash</p>
 
 ## Overview
-This repository holds an ipython file where detailed analysis was explained. I used three datasets (csv.files) between September 2019 to August 2020 which are available in [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
+This repository holds an ipython file where detailed analysis was explained. I used three datasets (csv.files) between September 2019 and August 2020 which are available in [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
 
-For price predictions, I chose random forest regression model in scikit learn package with Python. 
-<br>For explortory data analysis, I used numpy, pandas, matplotlib and seaborn. 
+For price predictions, I chose random forest regression model in scikit learn package with Python.
+
+<br>For explortory data analysis and data visualization, I used numpy, pandas, matplotlib and seaborn. 
 
 ## Executive Summary
 - The occupancy rate becomes lower around October and November in 2019 and towards 2020 spring the rate becomes higher.
