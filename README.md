@@ -1,7 +1,7 @@
 # Data Analysis and Price prediction using Tokyo Airbnb data
 Japan is a host country of the Rugby World Cup in 2019 and Summer Olympics in 2020. Some media reported that there is a shortage of accomodation at the places where the matches are held. Airbnb is expected to be a great alternative for conventional accomodations such as hotels. In this report, I performed Exploratory Data Analysis and price prediction on Tokyo Airbnb data.
 
-<p><img src = "image_for_README" width=250></p>
+<p><img src = "https://github.com/AsunaMasuda/Tokyo_Airbnb/blob/master/image_for_README.jpg" width=500></p>
 Photo by Louie Martinez on Unsplash
 
 ## Overview
