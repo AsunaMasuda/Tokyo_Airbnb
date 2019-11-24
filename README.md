@@ -9,7 +9,7 @@ This repository holds an ipython file where detailed analysis was explained. I u
 
 For price predictions, I chose random forest regression model in scikit learn package with Python.
 
-<br>For explortory data analysis and data visualization, I used numpy, pandas, matplotlib and seaborn. 
+For explortory data analysis and data visualization, I used numpy, pandas, matplotlib and seaborn. 
 
 ## Executive Summary
 - The occupancy rate becomes lower around October and November in 2019 and towards 2020 spring the rate becomes higher.
